@@ -10,4 +10,6 @@ For API calls **Retrofit** is used with custom **Interceptor** to unzip **.gz** 
 
 The app will show progress bar and take time only on the first launch of application to load data from remote server. Once it's downloaded, It will be stored locally for future use, and the recyclerview will be populated instantly without any delay on second launch of app.
 
+Also, Please note that i didn't put the Json file in the assets folder bundled in the apk because the assignment mentions to use **Retrofit** and **Room**. That's why I am downloading it from the server on the first launch to make use of Retrofit and then saving it using Room. And I think it's also best for searching and pagination. 
+
 Dark mode support is also implemented. 
