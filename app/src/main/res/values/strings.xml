@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Amadeus</string>
+    <string name="temperature">Temperature:</string>
+    <string name="weather">Weather:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude</string>
+    <string name="iso_code">ISO Code:</string>
+    <string name="name">Name:</string>
+    <string name="locate_in_map">Locate In Map</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+</resources>
